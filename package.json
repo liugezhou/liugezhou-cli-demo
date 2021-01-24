@@ -1,0 +1,20 @@
+{
+  "name": "liugezhou-yargs-demo",
+  "version": "1.0.3",
+  "description": "",
+  "bin": {
+    "liugezhou-test": "bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dedent": "^0.7.0",
+    "npmlog": "^4.1.2",
+    "yargs": "^16.2.0"
+  }
+}
