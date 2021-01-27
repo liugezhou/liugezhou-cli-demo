@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^7.0.0",
     "dedent": "^0.7.0",
     "npmlog": "^4.1.2",
     "yargs": "^16.2.0"
