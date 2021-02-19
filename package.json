@@ -16,8 +16,10 @@
   "dependencies": {
     "commander": "^7.0.0",
     "dedent": "^0.7.0",
+    "npminstall": "^4.10.0",
     "npmlog": "^4.1.2",
     "path-exists": "^4.0.0",
+    "user-home": "^2.0.0",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
