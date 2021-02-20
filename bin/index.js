@@ -1,3 +1,5 @@
 #! /usr/bin/env node
 
-require('../dist/core.js')
+// require('../dist/core.js')
+
+require('./process')
