@@ -15,4 +15,6 @@
 
 > bin/process/exec.js文件主要用来学习  node中child_process的异步方法exec和execFile的使用。
 
-> bin/process/index.js文件主要用来学习  node中child_process的同步方法execSync和execFileSync和spawnSync的使用。
+> bin/process/sync.js文件主要用来学习  node中child_process的同步方法execSync和execFileSync和spawnSync的使用。
+
+> bin/process/inherit.js文件主要用来学习  node中child_process的异步方法spawn的stdio属性使用。
