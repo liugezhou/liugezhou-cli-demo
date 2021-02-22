@@ -1,5 +1,5 @@
 {
-  "name": "liugezhou-yargs-demo",
+  "name": "liugezhou-cli-demo",
   "version": "1.0.3",
   "description": "",
   "bin": {
@@ -14,8 +14,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "commander": "^7.0.0",
+    "commander": "^7.1.0",
     "dedent": "^0.7.0",
+    "inquirer": "^7.3.3",
     "npminstall": "^4.10.0",
     "npmlog": "^4.1.2",
     "path-exists": "^4.0.0",
