@@ -2,4 +2,4 @@
 
 // require('../dist/core.js')
 
-require('./inquirer')
+require('./inquirer/list')

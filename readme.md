@@ -21,4 +21,6 @@
 
 > bin/process/inherit.js文件主要用来学习  node中child_process的异步方法spawn的stdio属性使用。
 
-> bin/process/index.js文件主要用来学习  node中child_process的exec方法的源码以及回调监听的学习。
+> bin/process/input.js文件主要用来学习  node中child_process的exec方法的源码以及回调监听的学习。
+
+> /bin/inquire: Inquire测试代码：掌握input、confirm、list，其它先混个脸熟
