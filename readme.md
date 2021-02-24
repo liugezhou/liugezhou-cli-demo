@@ -24,3 +24,5 @@
 > bin/process/input.js文件主要用来学习  node中child_process的exec方法的源码以及回调监听的学习。
 
 > /bin/inquire: Inquire测试代码：掌握input、confirm、list，其它先混个脸熟
+
+> /bin/spinner.js：测试cli-spinner这个库
