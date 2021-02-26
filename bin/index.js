@@ -2,4 +2,4 @@
 
 // require('../dist/core.js')
 
-require('./spinner')
+require('./inquirer/list')
