@@ -1,0 +1,8 @@
+<% if (user) { -%>
+    <% for(let i =0;i<3;i++) { -%>
+        <%# 这里是注释 %>
+    <%_ %><div><%= user.name %><%= i %></div>
+    <%_ %><%- user.nickname -%>
+    <% } -%>
+<% } %>
+<%- include('./footer.html',{user})%>

@@ -30,3 +30,5 @@
 
 > bin/inquirer-source：inquirer源码中相关知识点代码测试。   
 > bin/inquirer-source/stepread:使用测试代码模拟readline内部执行逻辑
+
+> bin/ejs:ejs模版渲染的demo
