@@ -2,4 +2,4 @@
 
 // require('../dist/core.js')
 
-require('./ejs/glob.js')
+require('./ejs')
